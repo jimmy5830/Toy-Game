@@ -29,7 +29,7 @@
 
 
 ## 게임 조작 방법: 
-![wasd 설명](https://github.com/jimmy5830/Toy-Game/assets/127833468/052cba66-a516-4a7c-8210-cbc278d77cbd)
+![wasd 설명](https://github.com/jimmy5830/Toy-Game/assets/127833468/0a4b2ba7-d6bc-402f-8bf7-0b21505ac57a)
 
 
 W: 앞으로 이동
